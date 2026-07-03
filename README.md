@@ -1,3 +1,5 @@
+🌍 [English](README.md) | [Türkçe](README.tr.md) | [Español](README.es.md)
+
 # 📦 WinGet — General User Guide
 
 > **The Windows Package Manager CLI developed by Microsoft for managing applications.**
