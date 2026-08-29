@@ -1,6 +1,7 @@
 name: Encrypted Internet Gateway Engine
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
